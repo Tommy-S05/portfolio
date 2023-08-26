@@ -1,0 +1,54 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard",
+      "url" :"/admin"
+    },
+    {
+      "name": "Sobre mi",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard",
+      "url" :"/admin/aboutme"
+    },
+    {
+      "name": "Servicios",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard",
+      "url" :"/admin/services"
+    },
+    {
+      "name": "Resumen",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard",
+      "url" :"/admin/resume"
+    },
+    {
+      "name": "Trabajos",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard",
+      "url" :"/admin/jobs"
+    },
+    {
+      "name": "Blogs",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard",
+      "url" :"/admin/blogs"
+    },
+    {
+      "name": "Mensajes",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard",
+      "url" :"/admin/msgs"
+    },
+    
+    
+    {
+      "name": "Ver pagina",
+      "icon": "menu-icon tf-icons bx bx-user-pin",
+      "slug": "dashboard",
+      "url" :"/"
+    }
+  ]
+}
